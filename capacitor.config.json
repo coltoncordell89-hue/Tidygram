@@ -1,0 +1,6 @@
+{
+  "appId": "com.nestandnurture.sanctuary",
+  "appName": "Nest & Nurture",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Cleaning Service Gift Booking",
+  "description": "Book customizable e-gift cards for professional cleaning services with automated scheduling and redemption tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
